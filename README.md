@@ -1,4 +1,4 @@
-<h1>Ants vs. SomeBees Gamer</h1>
+<h1>Ants vs. SomeBees Game</h1>
 
 
 <h2>Description</h2>
